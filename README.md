@@ -5,10 +5,15 @@ Students DatasetEach group is provided with a data-set containing 200 URLs for p
 
 Assessment Requirements
 Each group is required to complete the following two tasks:
+
 1.Generate a sparse representation for Paper Bodies (i.e. paper text without Title, Authors, Abstract and References). The sparse representation consists of two files:a.Vocabulary index fileb.Sparse count vectors file
+
 2.Generate  a CSV file (stats.csv) containing three columns:
+
   a.Top 10 most frequent terms appearing in all Titles
+  
   b.Top 10 most frequent Authors
+  
   c.Top 10 most frequent terms appearing in all Abstracts
   
 Sparse Feature Generation
