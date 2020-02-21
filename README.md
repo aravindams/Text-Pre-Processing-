@@ -40,5 +40,5 @@ To complete the second task you will need to perform the following preprocessing
 A.The  word  tokenization  must  use  the  following  regular  expression,  r"[A-Za-z]\w+(?:[-'?]\w+)?"
 
 B.The context-independent stop words (i.e, stopwords_en.txt) must be removed
-1
+
 C.For Abstracts,  Tokens  must  be  normalized  to  lowercase  except  the  capital  tokens appearing in the middle of a sentence/line. (use sentence segmentation to achieve this). For Titles, tokens must be all normalised to lowercase.
