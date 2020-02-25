@@ -1,7 +1,9 @@
 # Text-Pre-Processing-
-Text Pre-Processing and Feature Generation using NLTK 
-This assessment touches on the next step of analyzing textual data, i.e., extracting data from non-structured format and converting the extracted data into a proper format suitable for a downstream modelling task. In this assessment, you are required to write Python code to preprocess a set of published  papers  and  convert  them  into  numerical  representations  (which  are  suitable  for  input into NLP AI systems, recommender-systems, information-retrieval algorithms, etc.)
-Students DatasetEach group is provided with a data-set containing 200 URLs for papers published in a popular AI conference.  
+Text Pre-Processing and Feature Generation using NLTK
+This assessment touches on the next step of analyzing textual data, i.e., extracting data from non-structured format using **re package** and converting the extracted data into a proper format suitable for a downstream modelling task. In this assessment, you are required to write Python code to preprocess a set of published  papers  and  convert  them  into  numerical  representations  (which  are  suitable  for  input into NLP AI systems, recommender-systems, information-retrieval algorithms, etc.)
+Students Dataset 
+
+Each group is provided with a data-set containing 200 URLs for papers published in a popular AI conference.  
 
 Assessment Requirements
 Each group is required to complete the following two tasks:
